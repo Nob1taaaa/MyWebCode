@@ -1,17 +1,5 @@
-# My Lovable WebCode
+# Authentication and authorization backend
 
-## Overview
-An innovative web project with cutting-edge AI and ML integrations. Designed to showcase problem-solving skills and creativity, utilizing Python, TensorFlow, and IBM Watson.
+This repo now includes a FastAPI backend that shows **authentication** (who you are) and **authorization** (what you can do) as separate layers.
 
-## Features
-- AI-Powered Chatbot for real-time user engagement
-- Generative Text Synthesis using Transformer Models
-- Intuitive and responsive design using HTML/CSS and Vue.js
-
-## Technologies
-- **Programming Languages**: Python, JavaScript, HTML/CSS
-- **AI/ML Frameworks**: TensorFlow, NLP, IBM Watson
-- **Web Development Tools**: Node.js, Vue.js, Vite
-
-## Acknowledgments
-Inspired by participation in Python Programming Hackathon at IIT BHU, demonstrating AI/ML capabilities during Kashiyatra 2025.
+Read [backend/README.md](backend/README.md) for the mental model, API, and how to run it.
